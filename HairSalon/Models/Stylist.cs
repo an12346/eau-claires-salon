@@ -4,5 +4,5 @@
 //Must be able to see a stylist's details 
 //Must have the ablity to add new stylists to the System
 //Must have the ablity to to add new clients to a specific stylist
-//Each client can only belong to one stylist 
+//Each client can only belong to one stylist
 

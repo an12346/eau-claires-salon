@@ -6,3 +6,17 @@
 //Must have the ablity to to add new clients to a specific stylist
 //Each client can only belong to one stylist
 
+using System.Collections.Generic;
+
+namespace Salon.Models
+{
+
+  public class Stylist
+  {
+
+    public Stylist()
+    {
+      this.Clients = new HashSet<Item>
+    }
+  }
+}

@@ -22,6 +22,14 @@ This web application allows hair salon owners to keep track of their stylists an
 * Next, compile the code using the command `$ dotnet build` 
 * Then, to run the application in a web browser, use the command `$ dotnet run`
 
+To recreate database:
+* Ensure MySQL server is running by putting in the command `mysql -uroot -pepicodus` in the terminal
+* Open MySQL Workbench 
+* Click `create new schema` in the navbar and enter a name for the database 
+* Click apply and finish
+* Click on the newly created schema in the schemas section and right click on the `Tables` option
+* Fill out the name and column fields and click apply and finish
+
 
 
 ## Known Bugs

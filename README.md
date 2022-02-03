@@ -49,4 +49,4 @@ To recreate database:
 
 [MIT](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2021 Anna Pittman
+Copyright (c) 2022 Anna Pittman
